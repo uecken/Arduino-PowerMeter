@@ -4,7 +4,7 @@ Arduino----AD8317
         |
 	---Kuman IIC I2C OLED Module
 
-<img src="./Connection Diagram.jpg" alt="Connection Diagram">
+<img src="./Connection Diagram.jpg" alt="Connection Diagram" width=50%>
 
 
 Reference:
