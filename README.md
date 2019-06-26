@@ -1,8 +1,6 @@
 # Arduino
-
-Arduino----AD8317
-        |
-	---Kuman IIC I2C OLED Module
+Arduino controlls AD8317 and Kuman IIC I2C OLED Module.
+Measured Value is - dBm. Range is 0 to -55dBm.
 
 <img src="./Connection Diagram.jpg" alt="Connection Diagram" width=50%>
 
